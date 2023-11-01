@@ -2,9 +2,9 @@
 from pyrogram import Client
 from pyroaddon import listen
 import os
-API_ID = 18802415
-API_HASH = "a8993f96404fd9a67de867586b3ddc92"
-BOT_TOKEN = os.environ.get('BOT_TOKEN')
+API_ID = 28153993
+API_HASH = "976fd7cc4958ad84181a53b41919564b"
+BOT_TOKEN = os.environ.get('6794987860:AAFf7DESafzmz0AfaZJMVMjeK3wCpqcYazE')
 bot = Client(":memory:",
              api_id=API_ID,
              api_hash=API_HASH,
